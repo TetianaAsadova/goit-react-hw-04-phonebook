@@ -1,0 +1,12 @@
+.filter {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: #010101
+}
+
+.filter__filter {
+    margin-bottom: 0;
+}
